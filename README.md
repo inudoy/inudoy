@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Md Imran Nazir Udoy</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inudoy" alt="inudoy" /></a> </p>
-
 - 🌱 I’m currently learning **python , javascript**
 
 - 📫 How to reach me **inudoy.dev@gmail.com**
