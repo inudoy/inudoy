@@ -20,3 +20,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inudoy&show_icons=true&locale=en" alt="inudoy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inudoy&" alt="inudoy" /></p>
+# My Profiles
+
+- [🌟 Profile 1](https://example.com/profile1)
+- [🚀 Profile 2](https://example.com/profile2)
+- [💼 Profile 3](https://example.com/profile3)
+- [🎨 Profile 4](https://example.com/profile4)
+- [📚 Profile 5](https://example.com/profile5)
+
