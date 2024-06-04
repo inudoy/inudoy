@@ -22,9 +22,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inudoy&" alt="inudoy" /></p>
 # My Profiles
 
-- [:fallen_leaf: Profile 1](https://example.com/profile1)
-- [🚀 Profile 2](https://example.com/profile2)
-- [💼 Profile 3](https://example.com/profile3)
-- [🎨 Profile 4](https://example.com/profile4)
-- [📚 Profile 5](https://example.com/profile5)
+- [:fallen_leaf: <i class="fa-brands fa-linkedin"></i> ](https://github.com/inudoy)
+- [:fallen_leaf: CodeForces](https://codeforces.com/profile/Mr.Uranium)
+- [:fallen_leaf: CodeChef](https://www.codechef.com/users/mr_uranium)
+- [:fallen_leaf: Profile 4](https://example.com/profile4)
+- [:fallen_leaf: Profile 5](https://example.com/profile5)
 
