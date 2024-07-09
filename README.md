@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/md imran nazir udoy](https://www.linkedin.com/in/md-imran-nazir-udoy-657a6a303)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md imran nazir udoy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-imran-nazir-udoy-657a6a303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md imran nazir udoy" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mr_uranium" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mr_uranium" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mr.uranium(m and u are in capital)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mr.uranium(m and u are in capital)" height="30" width="40" /></a>
 </p>
