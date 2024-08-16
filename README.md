@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Imran Nazir Udoy</h1>
-- 🌱 I’m currently learning **python , javascript**
+- 🌱 I’m currently learning **Data Science , Backend Web Devlopment**
 
 - 📫 How to reach me **inudoy.dev@gmail.com**
 
